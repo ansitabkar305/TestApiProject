@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApiProject", "TestApiProject\TestApiProject.csproj", "{7A606746-C562-4B2A-AAFE-3DE1EBCF37BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCDotNetCore", "MVCDotNetCore\MVCDotNetCore.csproj", "{09C76ECE-7217-4265-899D-64EC847854EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A606746-C562-4B2A-AAFE-3DE1EBCF37BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A606746-C562-4B2A-AAFE-3DE1EBCF37BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A606746-C562-4B2A-AAFE-3DE1EBCF37BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A606746-C562-4B2A-AAFE-3DE1EBCF37BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C76ECE-7217-4265-899D-64EC847854EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C76ECE-7217-4265-899D-64EC847854EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C76ECE-7217-4265-899D-64EC847854EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C76ECE-7217-4265-899D-64EC847854EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9143E9B-BCE3-4670-A1B0-01A3B1E47CBF}
+	EndGlobalSection
+EndGlobal
